@@ -1,4 +1,3 @@
-killtime
+killtime ( a love story )
 ===================
-the series
 ===================
