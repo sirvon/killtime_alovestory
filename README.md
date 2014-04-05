@@ -1,2 +1,3 @@
-killltime_theseries
+killtime
+the series
 ===================
